@@ -1,14 +1,16 @@
-<h1 align="center">Hi, I'm Shaik Majid Ali 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Java Developer | AWS Cloud Basics | BCA Graduate (2026) | MCA (Pursuing)</b><br>
-  Hyderabad, Telangana, India 🇮🇳
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Shaik%20Majid%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20%7C%20AWS%20Cloud%20Basics&descSize=20&descAlignY=60" alt="Shaik Majid Ali banner" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Pursuing%20MCA-blue?style=for-the-badge" alt="Pursuing MCA">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" alt="Open to opportunities">
-</p>
+<b>BCA Graduate (2026) | MCA (Pursuing)</b><br>
+Hyderabad, Telangana, India 🇮🇳
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Pursuing%20MCA-1F6FEB?style=for-the-badge&labelColor=161B22" alt="Pursuing MCA">
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge&labelColor=161B22" alt="Open to opportunities">
+
+</div>
 
 ---
 
@@ -28,38 +30,48 @@ I have completed four academic projects, including a full-stack Learning Managem
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python%20(basics)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python%20(basics)-161B22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python basics">
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=2965F1" alt="CSS3">
+<img src="https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
 
 **Backend**
 
-Servlets • JSP • JDBC • MVC Architecture
+<img src="https://img.shields.io/badge/Servlets-161B22?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Servlets">
+<img src="https://img.shields.io/badge/JSP-161B22?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="JSP">
+<img src="https://img.shields.io/badge/JDBC-161B22?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="JDBC">
+<img src="https://img.shields.io/badge/MVC-161B22?style=for-the-badge&logoColor=white" alt="MVC Architecture">
 
 **Database**
 
-![Oracle](https://img.shields.io/badge/Oracle%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle%2021c-161B22?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle 21c">
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://img.shields.io/badge/AWS%20EC2-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS EC2">
+<img src="https://img.shields.io/badge/AWS%20S3-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS S3">
+<img src="https://img.shields.io/badge/AWS%20Lambda-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Lambda">
+<img src="https://img.shields.io/badge/API%20Gateway-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="API Gateway">
 
-Elastic IP • Load Balancer • API Gateway
+Elastic IP • Load Balancer
 
 **Tools & Servers**
 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Eclipse-161B22?style=for-the-badge&logo=eclipseide&logoColor=A593E0" alt="Eclipse">
+<img src="https://img.shields.io/badge/Apache%20Tomcat-161B22?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75" alt="Apache Tomcat">
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+</div>
 
 ---
 
@@ -119,21 +131,25 @@ A cloud storage app where a user uploads a file on a web page and it is **automa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaikmajidali&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikmajidali&layout=compact&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaikmajidali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikmajidali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaik-majid-ali-56984230b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shaikmajidalii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>Beyond code: boxing 🥊 • shayari ✍️ • painting 🎨</i></p>
+<a href="https://www.linkedin.com/in/shaik-majid-ali-56984230b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:shaikmajidalii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<i>Beyond code: boxing 🥊 • shayari ✍️ • painting 🎨</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=120&section=footer" alt="footer" width="100%">
